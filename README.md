@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Daiki Kouguchi
+
 <!--
 **K-Daiki-0ne/K-Daiki-0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
