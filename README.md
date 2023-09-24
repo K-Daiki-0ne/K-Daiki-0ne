@@ -2,6 +2,8 @@
 
 My name is Daiki Kouguchi
 
+マラソンが好きです。
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daiki-0ne&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=K-Daiki-0ne" />
